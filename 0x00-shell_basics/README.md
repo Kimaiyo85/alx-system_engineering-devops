@@ -1,1 +1,2 @@
-my first readme
+#!/bin/bash
+display content of the directory
